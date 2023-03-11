@@ -1,0 +1,94 @@
+.body{
+    background-color: antiquewhite;
+    font-family: calibri;
+    color: aliceblue;
+}
+*{
+    font-family: calibri;
+ 
+}
+.navheader{
+    margin-left: 20px;
+}
+
+.hirebtn{
+    width: 150px;
+    height: 50px;
+    border-radius: 50px;
+    color: #ffffff;
+    background-image: linear-gradient(to right, #3d378d, #8f8cb6);
+}
+
+.foodbar{
+    background-color: #3b367c;
+    height: 180px;
+    width: 100%;
+    bottom: 0;
+}
+.wartech{
+    
+color : #3b367c;
+
+font-family: calibri;
+}
+.ks{
+    color: white;
+}
+.headfod{
+    color: rgb(192, 191, 191);
+    opacity: 85%;
+}
+.divhr{
+    height: 150px;
+    background-color: #3b367c;
+    color: #3b367c;
+}
+.vl {
+    border-left: 1px solid rgb(199, 199, 199);
+    height: 2px;
+   
+    margin-top: 76px;
+  }
+
+  .display-4 {
+    font-size: 4.5em;
+    font-weight: bold;
+ color: black;
+  }
+
+.bar{
+    color: aliceblue;
+    margin-left: 10px;
+}
+.ico{
+    border: 30px;
+    border-radius: 50px;
+    background-color: dimgray;
+    margin-left: 10px;
+}
+.imgs{
+    border: 20px;
+    
+}
+
+.imgi{
+    background-color:#3b367c ;
+}
+
+.scrolling-wrapper {
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+    -webkit-overflow-scrolling: touch;
+   
+}
+.card {
+      display: inline-block;
+    }
+
+
+      .broline{
+        background-image: url("./assets/wartech2k23/img/b.png");
+        background-size: 100% 90%;
+        background-repeat: no-repeat;
+      }
